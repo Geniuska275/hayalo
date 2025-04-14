@@ -6,9 +6,9 @@ import { LuCopyright } from "react-icons/lu";
 
 function Footer() {
   return (
-    <div className='bg-[#fef6e5] p-[40px] '>
-        <div className='md:flex justify-between items-center border-b border-gray-200 p-[20px]'>
-          <div className='md:mb-5'>
+    <div className='bg-[#fef6e5]  md:p-[40px] '>
+        <div className='  md:flex justify-between items-center border-b border-gray-200 p-[20px]'>
+          <div className='md:mb-5 '>
             <h1 className='font-extrabold text-2xl font-serif mb-2'>Hayalo</h1>
             <p className='font-serif'>The event supplies rental and <br></br>Marketplace </p>
           </div>
@@ -48,7 +48,7 @@ function Footer() {
 
             </div>
         </div>
-        <div className='flex justify-between items-center py-6 flex-wrap gap-3'>
+        <div className=' ml-4 flex justify-between items-center py-6 flex-wrap gap-3'>
           <ul className='text-sm font-serif flex gap-4 cursor-pointer'>
             <li>Cookies</li>
             <li>Terms of service</li>
