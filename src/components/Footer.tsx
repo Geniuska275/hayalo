@@ -10,7 +10,7 @@ function Footer() {
         <div className='  md:flex justify-between items-center border-b border-gray-200 p-[20px]'>
           <div className='md:mb-5 '>
             <h1 className='font-extrabold text-2xl font-serif mb-2'>Hayalo</h1>
-            <p className='font-serif'>The event supplies rental and <br></br>Marketplace </p>
+            <p className='font-serif sm:font-bold sm:text-sm md:w-[250px]'>The event supplies rental and Marketplace </p>
           </div>
            <div className='md:flex gap-[130px] justify-around'>
 
