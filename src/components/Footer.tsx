@@ -9,7 +9,7 @@ import { LuCopyright } from "react-icons/lu";
 function Footer() {
   return (
     <div className='bg-[#fef6e5] p-[40px] '>
-        <div className='md:flex justify-between items-center border-b border-gray-400 p-[20px]'>
+        <div className='md:flex justify-between items-center border-b border-gray-200 p-[20px]'>
           <div className='md:mb-5'>
             <h1 className='font-extrabold text-2xl font-serif mb-2'>Hayalo</h1>
             <p className='font-serif'>The event supplies rental and <br></br>Marketplace </p>
