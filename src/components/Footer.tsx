@@ -28,8 +28,8 @@ function Footer() {
               <ul className='text-sm font-serif cursor-pointer flex flex-col gap-3'>
                 <li>Help Center</li>
                 <li>FAQs</li>
-                <li>Blogs</li>
-                <li>Contact Us</li>
+                <li>Blog</li>
+                <li>Contact us</li>
               </ul>
             </div>
             <div className='md:mb-[80px] mt-4'>
