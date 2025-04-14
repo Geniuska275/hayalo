@@ -48,7 +48,7 @@ function Footer() {
 
             </div>
         </div>
-        <div className='flex justify-between items-center py-2 flex-wrap gap-3'>
+        <div className='flex justify-between items-center py-6 flex-wrap gap-3'>
           <ul className='text-sm font-serif flex gap-4 cursor-pointer'>
             <li>Cookies</li>
             <li>Terms of service</li>
