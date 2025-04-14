@@ -8,7 +8,7 @@ function Footer() {
   return (
     <div className='bg-[#fef6e5]  md:p-[40px] '>
         <div className='p-4 border-b md:flex justify-between items-center  border-gray-200 p-[20px]'>
-          <div className='md:mb-5 '>
+          <div className='md:mb-8'>
             <h1 className='font-extrabold text-2xl font-serif mb-2'>Hayalo</h1>
             <p className='font-serif sm:font-bold sm:text-sm md:w-[250px]'>The event supplies rental and Marketplace </p>
           </div>
