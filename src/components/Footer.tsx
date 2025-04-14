@@ -7,7 +7,7 @@ import { LuCopyright } from "react-icons/lu";
 function Footer() {
   return (
     <div className='bg-[#fef6e5]  md:p-[40px] '>
-        <div className='  md:flex justify-between items-center border-b border-gray-200 p-[20px]'>
+        <div className='p-4 border-b md:flex justify-between items-center  border-gray-200 p-[20px]'>
           <div className='md:mb-5 '>
             <h1 className='font-extrabold text-2xl font-serif mb-2'>Hayalo</h1>
             <p className='font-serif sm:font-bold sm:text-sm md:w-[250px]'>The event supplies rental and Marketplace </p>
@@ -16,7 +16,7 @@ function Footer() {
 
             <div>
               <h1 className='mt-4 font-extrabold text-md font-serif mb-2'>What we do</h1>
-              <ul className='text-sm font-serif'>
+              <ul className='text-sm font-serif flex flex-col gap-3'>
                 <li>Shop hayalo</li>
                 <li>About</li>
                 <li>Hayalo for Vendors</li>
@@ -25,7 +25,7 @@ function Footer() {
             </div>
             <div>
               <h1 className=' mt-4 font-extrabold text-md font-serif mb-2'>Support</h1>
-              <ul className='text-sm font-serif cursor-pointer'>
+              <ul className='text-sm font-serif cursor-pointer flex flex-col gap-3'>
                 <li>Help Center</li>
                 <li>FAQs</li>
                 <li>Blogs</li>
